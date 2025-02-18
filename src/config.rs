@@ -102,7 +102,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["jiangjinyun.top"];
-pub const RS_PUB_KEY: &str = "TF4rJa2jQW7B6EhMhI9pA5zf5zcAY9ofCOifD6fbzfk=";
+pub const RS_PUB_KEY: &str = "jiangjinyun";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
